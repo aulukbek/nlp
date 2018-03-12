@@ -1,0 +1,76 @@
+,description,infinitive,label,past
+0,d->t,bend,1,bent
+1,d->t,build,1,built
+2,d->t,lend,1,lent
+3,d->t,send,1,sent
+4,d->t,spend,1,spend
+5,d->t,geld,1,gelt
+6,d->t,gild,1,gilt
+7,d->t,gird,1,girt
+8,d->t,rend,1,rent
+9,d->t,shend,1,shent
+0,ay -> aid,lay,2,laid
+1,ay -> aid,pay,2,paid
+2,ay -> aid,say,2,said
+0,d or t ending,creep,3,crept
+1,d or t ending,feed,3,fed
+2,d or t ending,feel,3,felt
+3,d or t ending,keep,3,kept
+4,d or t ending,meet,3,met
+5,d or t ending,sleep,3,slept
+6,d or t ending,sweep,3,swept
+7,d or t ending,weep,3,wept
+8,d or t ending,breed,3,bred
+0,d or t ending: do not change,bet,4,bet
+1,d or t ending: do not change,bid,4,bid
+2,d or t ending: do not change,cost,4,cost
+3,d or t ending: do not change,cut,4,cut
+4,d or t ending: do not change,fit,4,fit
+5,d or t ending: do not change,spit,4,spit
+6,d or t ending: do not change,split,4,split
+7,d or t ending: do not change,set,4,set
+8,d or t ending: do not change,hurt,4,hurt
+9,d or t ending: do not change,shut,4,shut
+10,d or t ending: do not change,put,4,put
+0,vowel change: ending with e,break,5,broke
+1,vowel change: ending with e,speak,5,spoke
+2,vowel change: ending with e,steal,5,stole
+3,vowel change: ending with e,weave,5,wove
+4,vowel change: ending with e,choose,5,chose
+5,vowel change: ending with e,freeze,5,froze
+6,vowel change: ending with e,awake,5,awoke
+7,vowel change: ending with e,wake,5,woke
+8,vowel change: ending with e,reeve,5,rove
+0,change i > o,arise,6,arose
+1,change i > o,rise,6,rose
+2,change i > o,ride,6,rode
+3,change i > o,drive,6,drove
+4,change i > o,write,6,wrote
+5,change i > o,shine,6,shone
+6,change i > o,abide,6,abode
+7,change i > o,dive,6,dove
+8,change i > o,strive,6,strove
+9,change i > o,stride,6,strode
+0,ear -> ore,bear,7,bore
+1,ear -> ore,swear,7,swore
+2,ear -> ore,tear,7,tore
+3,ear -> ore,wear,7,wore
+0,ow > ew,blow,8,blew
+1,ow > ew,grow,8,grew
+2,ow > ew,know,8,knew
+3,ow > ew,throw,8,threw
+0,i > u,stick,9,stuck
+1,i > u,sting,9,stung
+2,i > u,swing,9,swung
+3,i > u,hang,9,hung
+0,i > ou,bind,10,bound
+1,i > ou,find,10,found
+2,i > ou,grind,10,ground
+3,i > ou,wind,10,wound
+0,add ed,answer,11,answered
+1,add ed,attempt,11,attepted
+2,add ed,boil,11,boiled
+3,add ed,calculate,11,calculated
+4,add ed,collect,11,collected
+5,add ed,command,11,commanded
+6,add ed,depend,11,depended
